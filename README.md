@@ -1,9 +1,9 @@
 ---
 
-## Hi there 👋
+## Hi there 👋 I'm MA_Haider
 
 - 🔭 I’m currently working on building a collection of C/C++ and Python codes for Programming Fundamentals and Object-Oriented Programming (OOP) to help students learn and practice these essential programming concepts.
-- 
+
 - 🌱 I’m currently learning advanced software development practices and exploring artificial intelligence, preparing for my journey into computer science at California State University.
 
 - 👯 I’m looking to collaborate on projects that make coding resources more accessible to learners, especially in C/C++ and Python.
